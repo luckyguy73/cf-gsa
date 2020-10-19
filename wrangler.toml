@@ -1,0 +1,6 @@
+name = "cloudflare-rocks"
+type = "javascript"
+account_id = "b4c191b190ba099de23e0d6c893568f0"
+workers_dev = true
+route = ""
+zone_id = ""
